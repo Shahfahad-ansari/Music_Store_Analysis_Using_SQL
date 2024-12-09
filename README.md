@@ -18,5 +18,3 @@ This SQL project explores a pizza sales dataset to extract meaningful business i
 - Identifying top-performing pizzas by category and revenue.  
 
 Through these analyses, the project demonstrates how SQL can power data-driven decision-making for sales strategies.
-
-[Explore the Repository](https://github.com/Shahfahad-ansari/Pizza_Sales_Analysis_Using_SQL)
